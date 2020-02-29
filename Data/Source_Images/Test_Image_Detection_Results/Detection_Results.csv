@@ -1,0 +1,2 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+pet9.jpg,c:\Users\Shweta\Documents\MCA\SEM6\Zargun\YoloImageDetector\Data\Source_Images\Test_Images\pet9.jpg,0,1464,4000,2026,0,0.9128467440605164,4000,3000
